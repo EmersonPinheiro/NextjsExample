@@ -26,7 +26,7 @@ export default function Home({ allPostsData = [] }) {
         <p>Hello there! 👋</p>
         <p>
           I'm a Computer Engineer and Software Developer, learning how to build
-          my own website using Next.js and it's{" "}
+          my own website using Next.js and it's great{" "}
           <a href="https://nextjs.org/learn">tutorial</a>.
         </p>
       </section>
